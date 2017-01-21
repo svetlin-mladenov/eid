@@ -1,6 +1,11 @@
-Easy use of electronic signature
+Easy use of digital signature
 
 ### How to use
+
+ * Download `libidprimepkcs11_1.2.3_amd64.deb` from your digital signature provider and place it next to `start.sh`
+ * Insert your secure card
+ * Run
+
 
     ./start.sh
 
